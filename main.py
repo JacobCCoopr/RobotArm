@@ -16,3 +16,9 @@ servo = Servo()
 for _ in range (1, 30):
     servo.increase(0)
     time.sleep(0.1)
+
+
+# decrease Servo 0 for 3 seconds
+for _ in range (1, 30):
+    servo.decrease(0)
+    time.sleep(0.1)
