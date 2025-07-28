@@ -1,10 +1,11 @@
 """
 SETUP FROM HOME DIR
-// Clone The ServoBlaster from Github
+// Clone The ServoBlaster from Github into home directory
 git clone git://github.com/richardghirst/PiBits.git
 
 // enter the install directory and build
 cd PiBits/ServoBlaster/user
+
 make servod
 """
 
